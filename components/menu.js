@@ -8,7 +8,7 @@ export default function Menu(){
                     <Link href="/"><a>Beranda</a></Link>
                 </li>
                 <li>
-                    <Link href="/tentang"><a>Tentang Kami</a></Link>
+                    <Link href="/tentang"><a>Data Diri</a></Link>
                 </li>    
             </ul>
         </div>

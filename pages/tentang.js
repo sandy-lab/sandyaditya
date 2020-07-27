@@ -5,11 +5,10 @@ export default function Tentang() {
   return(
     <div>
       <Head> 
-        <h1>BanyuwangiKu</h1>
       </Head>
       <Menu/>
       <div>
-        <h5>Tentang Kami</h5>
+        <h1>Data Diri</h1>
       </div>
     </div> 
   );
